@@ -7,7 +7,7 @@ if (fs.existsSync('set.env')) {
 }
 
 const session = process.env.SESSION || '';
-const dev = process.env.OWNER_NUMBER || '254748387615';
+const dev = process.env.OWNER_NUMBER || '255768619068';
 
 const autostatusAutoviewStatus = process.env.AUTOVIEW_STATUS || 'true';
 const autostatusAutoLikeStatus = process.env.AUTOLIKE_STATUS || 'false';

@@ -24,7 +24,7 @@ const botTimezone = process.env.BOT_TIMEZONE || "Africa/Nairobi";
 const botBotname = process.env.BOTNAME || "LUKA-MD";
 const botPackname = process.env.BOT_PACKNAME || "LUKA-MD";
 const botMode = process.env.BOT_MODE || "public";
-const botSessionName = process.env.BOT_SESSION_NAME || "keith-md";
+const botSessionName = process.env.BOT_SESSION_NAME || "luka-md";
 const autosocialdownload = process.env.AUTO_SOCIAL_DOWNLOAD || "false";
 
 const { Sequelize } = require('sequelize'); 
